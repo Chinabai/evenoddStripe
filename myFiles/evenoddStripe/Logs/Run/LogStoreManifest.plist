@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>207B18B2-D7A7-44E1-A41E-625E0D6BDE17</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>207B18B2-D7A7-44E1-A41E-625E0D6BDE17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>evenoddStripe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>evenoddStripe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run evenoddStripe</string>
+			<key>timeStartedRecording</key>
+			<real>685776844.86297596</real>
+			<key>timeStoppedRecording</key>
+			<real>685776846.65851903</real>
+			<key>title</key>
+			<string>Run evenoddStripe</string>
+			<key>uniqueIdentifier</key>
+			<string>207B18B2-D7A7-44E1-A41E-625E0D6BDE17</string>
+		</dict>
+		<key>74D47699-DCEB-4A77-8F27-5FFDA0DF501B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>74D47699-DCEB-4A77-8F27-5FFDA0DF501B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>evenoddStripe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>evenoddStripe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run evenoddStripe</string>
+			<key>timeStartedRecording</key>
+			<real>685776993.240556</real>
+			<key>timeStoppedRecording</key>
+			<real>685776994.91360295</real>
+			<key>title</key>
+			<string>Run evenoddStripe</string>
+			<key>uniqueIdentifier</key>
+			<string>74D47699-DCEB-4A77-8F27-5FFDA0DF501B</string>
+		</dict>
+		<key>8C024A86-3E62-4462-9E8D-349672026D55</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C024A86-3E62-4462-9E8D-349672026D55.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>evenoddStripe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>evenoddStripe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run evenoddStripe</string>
+			<key>timeStartedRecording</key>
+			<real>685776926.35009301</real>
+			<key>timeStoppedRecording</key>
+			<real>685776928.09689903</real>
+			<key>title</key>
+			<string>Run evenoddStripe</string>
+			<key>uniqueIdentifier</key>
+			<string>8C024A86-3E62-4462-9E8D-349672026D55</string>
+		</dict>
+		<key>9E5A0460-54D7-4C0C-9CB0-695938B9B8F7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9E5A0460-54D7-4C0C-9CB0-695938B9B8F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>evenoddStripe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>evenoddStripe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run evenoddStripe</string>
+			<key>timeStartedRecording</key>
+			<real>685776980.63458204</real>
+			<key>timeStoppedRecording</key>
+			<real>685776982.29666698</real>
+			<key>title</key>
+			<string>Run evenoddStripe</string>
+			<key>uniqueIdentifier</key>
+			<string>9E5A0460-54D7-4C0C-9CB0-695938B9B8F7</string>
+		</dict>
+		<key>BFE7CBA5-4832-49F8-9207-FE871D20B12A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BFE7CBA5-4832-49F8-9207-FE871D20B12A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>evenoddStripe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>evenoddStripe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run evenoddStripe</string>
+			<key>timeStartedRecording</key>
+			<real>685776817.38742602</real>
+			<key>timeStoppedRecording</key>
+			<real>685776833.73038602</real>
+			<key>title</key>
+			<string>Run evenoddStripe</string>
+			<key>uniqueIdentifier</key>
+			<string>BFE7CBA5-4832-49F8-9207-FE871D20B12A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
